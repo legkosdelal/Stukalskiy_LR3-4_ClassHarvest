@@ -1,5 +1,6 @@
 #include "Stukalskiy_LR3-4_Harvest.h"
 #include "Stukalskiy_LR3-4_Methods.h"
+
 #include <map>
 
 using namespace std;
