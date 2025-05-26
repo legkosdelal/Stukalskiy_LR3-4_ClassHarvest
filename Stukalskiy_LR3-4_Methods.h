@@ -1,7 +1,9 @@
 #ifndef METHODS_H
 #define METHODS_H
 
+#include "Stukalskiy_LR3-4_Methods.h"
 #include "Stukalskiy_LR3-4_Harvest.h"
+
 
 using namespace std;
 
